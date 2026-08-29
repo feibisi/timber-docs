@@ -1,0 +1,4 @@
+product: timber-docs
+current_source: official
+official:
+  url: https://github.com/timber/timber.git
